@@ -10,4 +10,4 @@ Running the file *calculator.py* should open a window with a calculator visible.
 
 Note that the program uses a custom font (DS Digital) that needs to be installed for the same visual result.
 
-![calculator-usage](https://github.com/Ayk-12/simple-calculator/blob/main/calculator-usage.png)
+<img src="https://github.com/Ayk-12/simple-calculator/blob/main/calculator-usage.png" width="50%" height="50%"/>
