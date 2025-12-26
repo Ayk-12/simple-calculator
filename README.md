@@ -2,7 +2,7 @@
 
 This program is a simple visual calculator made in Python.
 
-![calculator](https://github.com/Ayk-12/simple-calculator/blob/main/calculator.png)
+<img src="https://github.com/Ayk-12/simple-calculator/blob/main/calculator.png" width="50%" height="50%"/>
 
 If the "pygame" package is not installed, the program will not run. Download it using `pip install pygame`.
 
